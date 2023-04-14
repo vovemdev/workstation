@@ -1,4 +1,4 @@
-## VovemDev-Workstation
+## VovemDev Workstation
 
 Contributing to a workstation involves a series of steps that are required to be followed to ensure that the contribution is made effectively and efficiently. In this documentation, we will explain the process of contributing to a workstation in detail. We will also provide citations for each project inside the workstation and explain the utilities that are available in the workstation.
 
