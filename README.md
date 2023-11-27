@@ -37,5 +37,18 @@ Citation of Projects in the Workstation:
 
 The workstation may have multiple projects, each serving a specific purpose. The following are some of the projects that can be found in a typical workstation:
 
-TensorFlow:
-TensorFlow is an open-source machine learning framework developed by Google. It allows developers to build and train machine learning models, and deploy them in production environments. Citation: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Ghemawat, S. (2016). TensorFlow: A system for large-scale machine learning. In 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16) (pp. 265-283).
+# The library links
+
+1. ### jsonkeyflat
+
+>[!Detail:] fuzzyJson - flatten or unflatten JSON data:- There are many reasons for the need to flatten JSON, such as for a better and more understandable view that is there are only key-value pairs are present without any nesting. Please use the link below.
+
+The [jsonkeyflat](https://github.com/vovemdev/jsonkeyflat)
+
+1. ### ugo
+
+>[!Detail:] The Ugo makes JavaScript and Node.js easier by taking away the hassle of writing common maths operations. Please use the link below.
+
+The [ugo](https://github.com/vovemdev/ugo)
+
+
