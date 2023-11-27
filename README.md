@@ -49,7 +49,7 @@ The workstation may have multiple projects, each serving a specific purpose. The
 2. ### ugo
 
 >[!Detail:]
->The Ugo makes JavaScript and Node.js easier by taking away the hassle of writing common maths operations. Please use the link below.
+>The Ugo is an advanced mathematics library that will help you perform mathematical operations using Javascript and node.js. The library is super effective and user-friendly. Enables the execution of hitherto complex math operations and applies mathematical concepts to solve problems relating to artificial intelligence. It is an open source that invites software developers to evaluate written codes and also contribute opinions. With the Ugo library you are assured of accuracy and efficiency. Please use the link below.
 
 [ugo](https://github.com/vovemdev/ugo)
 
