@@ -41,14 +41,16 @@ The workstation may have multiple projects, each serving a specific purpose. The
 
 1. ### jsonkeyflat
 
->[!Detail:] fuzzyJson - flatten or unflatten JSON data:- There are many reasons for the need to flatten JSON, such as for a better and more understandable view that is there are only key-value pairs are present without any nesting. Please use the link below.
+>[!Detail:]
+>fuzzyJson - flatten or unflatten JSON data:- There are many reasons for the need to flatten JSON, such as for a better and more understandable view that is there are only key-value pairs are present without any nesting. Please use the link below.
 
-The [jsonkeyflat](https://github.com/vovemdev/jsonkeyflat)
+[jsonkeyflat](https://github.com/vovemdev/jsonkeyflat)
 
-1. ### ugo
+2. ### ugo
 
->[!Detail:] The Ugo makes JavaScript and Node.js easier by taking away the hassle of writing common maths operations. Please use the link below.
+>[!Detail:]
+>The Ugo makes JavaScript and Node.js easier by taking away the hassle of writing common maths operations. Please use the link below.
 
-The [ugo](https://github.com/vovemdev/ugo)
+[ugo](https://github.com/vovemdev/ugo)
 
 
